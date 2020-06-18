@@ -1,4 +1,4 @@
-Tensorflow 1 framework with various python runtime. Used by puzl.ee Kubernetes cloud provider. 
+Tensorflow 2 framework with various python runtime. Used by puzl.ee Kubernetes cloud provider. 
 
 #### Build:
 
