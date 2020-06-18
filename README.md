@@ -1,4 +1,4 @@
-Tensorflow 1 framework with various python runtime. Used by puzl.ee Kubernetes cloud provider. 
+Tensorflow 1 framework with various python runtime. Non-root Docker image with CUDA, used by [puzl.ee](https://puzl.ee) Kubernetes cloud provider. 
 
 #### Build:
 
