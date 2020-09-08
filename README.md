@@ -1,3 +1,5 @@
+This is old version. Please, find the actual version [here](https://github.com/puzl-ee/docker-images/tree/dev/images/tensorflow-1).
+
 Tensorflow 1 framework with various python runtime. Non-root Docker image with CUDA, used by [puzl.ee](https://puzl.ee) Kubernetes cloud provider. 
 
 #### Build:
